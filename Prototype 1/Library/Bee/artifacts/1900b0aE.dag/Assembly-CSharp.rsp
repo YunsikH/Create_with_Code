@@ -355,6 +355,7 @@
 "Assets/Challenge 1/Scripts/FollowPlayerX.cs"
 "Assets/Challenge 1/Scripts/PlayerControllerX.cs"
 "Assets/Challenge 1/Scripts/spinPropellerX.cs"
+"Assets/Scripts/DriveDownRoad.cs"
 "Assets/Scripts/FollowPlayer.cs"
 "Assets/Scripts/PlayerController.cs"
 -langversion:9.0
