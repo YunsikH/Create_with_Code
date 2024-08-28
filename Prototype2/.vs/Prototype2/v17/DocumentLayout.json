@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\qwert\\Documents\\Personal Programming Projects\\Create with Code\\Prototype2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{991D930B-35E1-0AA3-EC85-40639ADFE325}|Assembly-CSharp.csproj|c:\\users\\qwert\\documents\\personal programming projects\\create with code\\prototype2\\assets\\course library\\scripts\\destroyoutofbounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{991D930B-35E1-0AA3-EC85-40639ADFE325}|Assembly-CSharp.csproj|solutionrelative:assets\\course library\\scripts\\destroyoutofbounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{991D930B-35E1-0AA3-EC85-40639ADFE325}|Assembly-CSharp.csproj|c:\\users\\qwert\\documents\\personal programming projects\\create with code\\prototype2\\assets\\challenge 2\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991D930B-35E1-0AA3-EC85-40639ADFE325}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 2\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{991D930B-35E1-0AA3-EC85-40639ADFE325}|Assembly-CSharp.csproj|c:\\users\\qwert\\documents\\personal programming projects\\create with code\\prototype2\\assets\\course library\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{991D930B-35E1-0AA3-EC85-40639ADFE325}|Assembly-CSharp.csproj|solutionrelative:assets\\course library\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{991D930B-35E1-0AA3-EC85-40639ADFE325}|Assembly-CSharp.csproj|C:\\Users\\qwert\\Documents\\Personal Programming Projects\\Create with Code\\Prototype2\\assets\\challenge 2\\scripts\\detectcollisionsx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991D930B-35E1-0AA3-EC85-40639ADFE325}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 2\\scripts\\detectcollisionsx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{991D930B-35E1-0AA3-EC85-40639ADFE325}|Assembly-CSharp.csproj|C:\\Users\\qwert\\Documents\\Personal Programming Projects\\Create with Code\\Prototype2\\assets\\course library\\scripts\\moveforward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{991D930B-35E1-0AA3-EC85-40639ADFE325}|Assembly-CSharp.csproj|solutionrelative:assets\\course library\\scripts\\moveforward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{991D930B-35E1-0AA3-EC85-40639ADFE325}|Assembly-CSharp.csproj|c:\\users\\qwert\\documents\\personal programming projects\\create with code\\prototype2\\assets\\challenge 2\\scripts\\destroyoutofboundsx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991D930B-35E1-0AA3-EC85-40639ADFE325}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 2\\scripts\\destroyoutofboundsx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991D930B-35E1-0AA3-EC85-40639ADFE325}|Assembly-CSharp.csproj|c:\\users\\qwert\\documents\\personal programming projects\\create with code\\prototype2\\assets\\course library\\scripts\\detectcollisions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991D930B-35E1-0AA3-EC85-40639ADFE325}|Assembly-CSharp.csproj|solutionrelative:assets\\course library\\scripts\\detectcollisions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991D930B-35E1-0AA3-EC85-40639ADFE325}|Assembly-CSharp.csproj|c:\\users\\qwert\\documents\\personal programming projects\\create with code\\prototype2\\assets\\challenge 2\\scripts\\moveforwardx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991D930B-35E1-0AA3-EC85-40639ADFE325}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 2\\scripts\\moveforwardx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991D930B-35E1-0AA3-EC85-40639ADFE325}|Assembly-CSharp.csproj|C:\\Users\\qwert\\Documents\\Personal Programming Projects\\Create with Code\\Prototype2\\assets\\challenge 2\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991D930B-35E1-0AA3-EC85-40639ADFE325}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 2\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +39,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DestroyOutOfBounds.cs",
-              "DocumentMoniker": "C:\\Users\\qwert\\Documents\\Personal Programming Projects\\Create with Code\\Prototype2\\Assets\\Course Library\\Scripts\\DestroyOutOfBounds.cs",
-              "RelativeDocumentMoniker": "Assets\\Course Library\\Scripts\\DestroyOutOfBounds.cs",
-              "ToolTip": "C:\\Users\\qwert\\Documents\\Personal Programming Projects\\Create with Code\\Prototype2\\Assets\\Course Library\\Scripts\\DestroyOutOfBounds.cs",
-              "RelativeToolTip": "Assets\\Course Library\\Scripts\\DestroyOutOfBounds.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Title": "SpawnManagerX.cs",
+              "DocumentMoniker": "C:\\Users\\qwert\\Documents\\Personal Programming Projects\\Create with Code\\Prototype2\\Assets\\Challenge 2\\Scripts\\SpawnManagerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 2\\Scripts\\SpawnManagerX.cs",
+              "ToolTip": "C:\\Users\\qwert\\Documents\\Personal Programming Projects\\Create with Code\\Prototype2\\Assets\\Challenge 2\\Scripts\\SpawnManagerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 2\\Scripts\\SpawnManagerX.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBoAAABmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T23:21:56.813Z",
+              "WhenOpened": "2024-08-28T21:47:44.897Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\Users\\qwert\\Documents\\Personal Programming Projects\\Create with Code\\Prototype2\\Assets\\Course Library\\Scripts\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Course Library\\Scripts\\PlayerController.cs",
-              "ToolTip": "C:\\Users\\qwert\\Documents\\Personal Programming Projects\\Create with Code\\Prototype2\\Assets\\Course Library\\Scripts\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Course Library\\Scripts\\PlayerController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwB4AAAAJAAAA",
+              "DocumentIndex": 3,
+              "Title": "DetectCollisions.cs",
+              "DocumentMoniker": "C:\\Users\\qwert\\Documents\\Personal Programming Projects\\Create with Code\\Prototype2\\Assets\\Course Library\\Scripts\\DetectCollisions.cs",
+              "RelativeDocumentMoniker": "Assets\\Course Library\\Scripts\\DetectCollisions.cs",
+              "ToolTip": "C:\\Users\\qwert\\Documents\\Personal Programming Projects\\Create with Code\\Prototype2\\Assets\\Course Library\\Scripts\\DetectCollisions.cs",
+              "RelativeToolTip": "Assets\\Course Library\\Scripts\\DetectCollisions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T23:12:59.204Z",
+              "WhenOpened": "2024-08-28T21:44:27.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MoveForward.cs",
-              "DocumentMoniker": "C:\\Users\\qwert\\Documents\\Personal Programming Projects\\Create with Code\\Prototype2\\Assets\\Course Library\\Scripts\\MoveForward.cs",
-              "RelativeDocumentMoniker": "Assets\\Course Library\\Scripts\\MoveForward.cs",
-              "ToolTip": "C:\\Users\\qwert\\Documents\\Personal Programming Projects\\Create with Code\\Prototype2\\Assets\\Course Library\\Scripts\\MoveForward.cs",
-              "RelativeToolTip": "Assets\\Course Library\\Scripts\\MoveForward.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABGAAAA",
+              "Title": "DestroyOutOfBoundsX.cs",
+              "DocumentMoniker": "C:\\Users\\qwert\\Documents\\Personal Programming Projects\\Create with Code\\Prototype2\\Assets\\Challenge 2\\Scripts\\DestroyOutOfBoundsX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 2\\Scripts\\DestroyOutOfBoundsX.cs",
+              "ToolTip": "C:\\Users\\qwert\\Documents\\Personal Programming Projects\\Create with Code\\Prototype2\\Assets\\Challenge 2\\Scripts\\DestroyOutOfBoundsX.cs",
+              "RelativeToolTip": "Assets\\Challenge 2\\Scripts\\DestroyOutOfBoundsX.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T23:09:04.019Z"
+              "WhenOpened": "2024-08-28T21:42:12.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoveForwardX.cs",
+              "DocumentMoniker": "C:\\Users\\qwert\\Documents\\Personal Programming Projects\\Create with Code\\Prototype2\\Assets\\Challenge 2\\Scripts\\MoveForwardX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 2\\Scripts\\MoveForwardX.cs",
+              "ToolTip": "C:\\Users\\qwert\\Documents\\Personal Programming Projects\\Create with Code\\Prototype2\\Assets\\Challenge 2\\Scripts\\MoveForwardX.cs",
+              "RelativeToolTip": "Assets\\Challenge 2\\Scripts\\MoveForwardX.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:42:03.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetectCollisionsX.cs",
+              "DocumentMoniker": "C:\\Users\\qwert\\Documents\\Personal Programming Projects\\Create with Code\\Prototype2\\Assets\\Challenge 2\\Scripts\\DetectCollisionsX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 2\\Scripts\\DetectCollisionsX.cs",
+              "ToolTip": "C:\\Users\\qwert\\Documents\\Personal Programming Projects\\Create with Code\\Prototype2\\Assets\\Challenge 2\\Scripts\\DetectCollisionsX.cs",
+              "RelativeToolTip": "Assets\\Challenge 2\\Scripts\\DetectCollisionsX.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:39:45.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerControllerX.cs",
+              "DocumentMoniker": "C:\\Users\\qwert\\Documents\\Personal Programming Projects\\Create with Code\\Prototype2\\Assets\\Challenge 2\\Scripts\\PlayerControllerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 2\\Scripts\\PlayerControllerX.cs",
+              "ToolTip": "C:\\Users\\qwert\\Documents\\Personal Programming Projects\\Create with Code\\Prototype2\\Assets\\Challenge 2\\Scripts\\PlayerControllerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 2\\Scripts\\PlayerControllerX.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:29:16.821Z"
             }
           ]
         }
