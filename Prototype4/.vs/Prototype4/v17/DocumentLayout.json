@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\qwert\\Documents\\Personal Programming Projects\\Create with Code\\Prototype4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B7B1181-389B-F393-D088-AB81A6B0410E}|Assembly-CSharp.csproj|c:\\users\\qwert\\documents\\personal programming projects\\create with code\\prototype4\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B7B1181-389B-F393-D088-AB81A6B0410E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B7B1181-389B-F393-D088-AB81A6B0410E}|Assembly-CSharp.csproj|c:\\users\\qwert\\documents\\personal programming projects\\create with code\\prototype4\\assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B7B1181-389B-F393-D088-AB81A6B0410E}|Assembly-CSharp.csproj|C:\\Users\\qwert\\Documents\\Personal Programming Projects\\Create with Code\\Prototype4\\assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B7B1181-389B-F393-D088-AB81A6B0410E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B7B1181-389B-F393-D088-AB81A6B0410E}|Assembly-CSharp.csproj|c:\\users\\qwert\\documents\\personal programming projects\\create with code\\prototype4\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B7B1181-389B-F393-D088-AB81A6B0410E}|Assembly-CSharp.csproj|C:\\Users\\qwert\\Documents\\Personal Programming Projects\\Create with Code\\Prototype4\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B7B1181-389B-F393-D088-AB81A6B0410E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7B1181-389B-F393-D088-AB81A6B0410E}|Assembly-CSharp.csproj|c:\\users\\qwert\\documents\\personal programming projects\\create with code\\prototype4\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7B1181-389B-F393-D088-AB81A6B0410E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\qwert\\Documents\\Personal Programming Projects\\Create with Code\\Prototype4\\Assets\\Course Library\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Users\\qwert\\Documents\\Personal Programming Projects\\Create with Code\\Prototype4\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
@@ -47,26 +47,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SpawnManager.cs",
               "DocumentMoniker": "C:\\Users\\qwert\\Documents\\Personal Programming Projects\\Create with Code\\Prototype4\\Assets\\Scripts\\SpawnManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnManager.cs",
               "ToolTip": "C:\\Users\\qwert\\Documents\\Personal Programming Projects\\Create with Code\\Prototype4\\Assets\\Scripts\\SpawnManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\SpawnManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBMAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T21:31:40.277Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Users\\qwert\\Documents\\Personal Programming Projects\\Create with Code\\Prototype4\\Assets\\Scripts\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
               "ToolTip": "C:\\Users\\qwert\\Documents\\Personal Programming Projects\\Create with Code\\Prototype4\\Assets\\Scripts\\Enemy.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T21:23:28.982Z",
               "EditorCaption": ""
